@@ -74,7 +74,7 @@ Then, install the necessary packages and clone the repository:
 
 ```bash
 pip install esm
-git clone https://github.com/tau-team/esm3-darpins.git
+git clone https://github.com/Zahid8/ESM3-Adapters.git
 cd Scripts
 ```
 
